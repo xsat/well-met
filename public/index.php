@@ -1,6 +1,6 @@
 <?php
 
-use App\Application;
+use Nen\Application;
 
 /**
  * Create the application
