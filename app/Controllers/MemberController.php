@@ -6,12 +6,11 @@ use Nen\Database\Connection;
 use Nen\Database\Query\Insert;
 use Nen\Database\Query\Select;
 use Nen\Database\Query\Update;
-use Nen\Web\Controller;
 
 /**
  * Class MemberController
  */
-class MemberController extends Controller
+class MemberController extends BaseController
 {
     /**
      * @param int $memberId
