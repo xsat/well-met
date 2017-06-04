@@ -5,7 +5,7 @@ namespace App\Controllers;
 use Nen\Web\Controller;
 
 /**
- * Class MemberController
+ * Class BaseController
  */
 class BaseController extends Controller
 {
