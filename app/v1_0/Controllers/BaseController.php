@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controllers;
+namespace App\v1_0\Controllers;
 
 use Nen\Web\Controller;
 
